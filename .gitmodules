@@ -1,0 +1,3 @@
+[submodule "tut3c-nodyn"]
+	path = tut3c-nodyn
+	url = https://github.com/dasniko/tut3c-nodyn
